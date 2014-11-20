@@ -49,68 +49,71 @@ a.hire-me:hover {
 	background: gray;
 }
 .social {
-	text-align:center;
-	padding-bottom:80px;
+	text-align: center;
+	padding-bottom: 80px;
 }
 ul.social-icons {
-	margin:20px 0;
+	margin: 20px 0;
 }
 ul.social-icons li {
-	list-style:none;
-	display:inline-block;
-	margin:10px;
+	list-style: none;
+	display: inline-block;
+	margin: 10px;
 }
 ul.social-icons li:first-child {
-	margin-left:0;
+	margin-left: 0;
 }
 ul.social-icons li a {
-	opacity:0.8;
+	opacity: 0.8;
 }
 ul.social-icons li a:hover {
-	opacity:1;
+	opacity: 1;
 }
 /***** Skills *****/
 #skills .span3 {
-	width:235px;
+	width: 178px;
 	overflow: hidden;
 }
 #skills .span5 {
-	text-align:left;
-	padding:47px 0;
+	text-align: left;
+	padding: 47px 0;
 }
+
 #skills .ps, #skills .ai, #skills .html, #skills .css {
-	padding:25px;
-	width:100px;
-	height:100px;
+	padding: 25px;
+	width: 100px;
+	height: 100px;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
-	text-align:center;
-	border:8px solid #203748;
+	text-align: center;
+	border:4px solid #307DE3;
 	float:right;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
 }
+
 #skills .ps {
-	background:#30a5dc;
+	background: #959AA0;
 }
+
 #skills .ai {
-	background:#ee742b;
+	background:#959AA0;
 }
 #skills .html {
-	background:#f04949;
+	background:#959AA0;
 }
 #skills .css {
-	background:#39d084;
+	background:#959AA0;
 }
 #skills .ps:hover, #skills .ai:hover, #skills .html:hover, #skills .css:hover {
 	border:8px solid #fff;
 }
 #skills .ps h3, #skills .ai h3, #skills .html h3, #skills .css h3 {
 	color:#fff;
-	font-size: 3.4em;
+	font-size: 2.4em;
 	font-weight: normal;
 	line-height: 80px;
 }
