@@ -11,7 +11,7 @@ a.brand img {
 }
 #profile h2, #skills h2, #work h2, #resume h2 {
 	font-weight:normal;
-	color: #39D084;
+	color: #307DE3;
 }
 /***** Profile *****/
 	#profile h1 {
@@ -264,7 +264,7 @@ ul.work-images li img:hover {
 	text-align:center;
 }
 .footer {
-	background:#355267;
+	background: #307DE3;
 }
 .footer p {
 	margin:20px 0;

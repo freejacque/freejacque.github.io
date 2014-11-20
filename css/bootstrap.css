@@ -166,7 +166,7 @@ h2,  h3 {
 body {
 	margin: 0;
 	font-family: 'Droid Sans', sans-serif;
-	font-size: 14px;
+	font-size: 10px;
 	line-height: 20px;
 	color: #fff;
 	background-color: white;
@@ -1036,7 +1036,7 @@ textarea {
 	height: auto;
 }
 textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
-	background-color: #ddf3df;
+	background-color: #E8E8E8;
 	border: 0;
  -webkit-transition: background-color linear .2s;
  -moz-transition: background-color linear .2s;
@@ -1573,7 +1573,7 @@ legend + .control-group {
 	line-height: 20px;
 	text-align: center;
 	vertical-align: middle;
-	background:#39d084;
+	background:#307DE3;
 	cursor: pointer;
 	color: #fff;
 	border:0;
@@ -1597,7 +1597,7 @@ legend + .control-group {
 }
 .btn:hover, .btn:focus {
 	color: #fff;
-	background-color:#4ace54;
+	background-color: gray;
 	text-decoration: none;
 	background-position: 0 -15px;
 	-webkit-transition: background-position 0.1s linear;
@@ -2997,7 +2997,7 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini {
 }
 .navbar .nav.pull-right {
 	float: right;
-	margin-right: 0;
+	margin-right: 119px;
 }
 .navbar .nav > li {
 	float: left;
@@ -3009,7 +3009,7 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini {
 	color: #fff;
 	text-decoration: none;
 	text-transform:uppercase;
-	font-size: 18px;
+	font-size: 22px;
 	border-radius: 20px;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -4022,7 +4022,7 @@ to {
 .modal-header h3 {
 	margin: 0;
 	line-height: 30px;
-	color:#242424;
+	color: #307DE3;
 }
 .modal-body {
 	position: relative;
@@ -4030,7 +4030,7 @@ to {
 	max-height: 400px;
 	padding: 15px;
 	text-align: center;
-	color:#242424;
+	color: #242424;
 }
 .modal-form {
 	margin-bottom: 0;
@@ -5043,7 +5043,7 @@ ul.work-images li div {
  [class*="span"] {
  float: left;
  min-height: 1px;
- margin-left: 30px;
+ margin-left: 36px;
 }
  .container,  .navbar-static-top .container,  .navbar-fixed-top .container,  .navbar-fixed-bottom .container {
  width: 840px;
