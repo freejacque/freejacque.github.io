@@ -245,6 +245,7 @@ ul.work-images li:first-child {
 ul.work-images li div {
 	background:url(../img/eye.png) 50% 50% no-repeat;
 	background-color: lightgray;
+	border-radius: 20px;
 	text-align: center;
 	margin: 10px 0px;
 	width: 50em;
