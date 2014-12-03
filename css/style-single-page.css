@@ -262,6 +262,14 @@ ul.work-images li img {
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
 }
+
+.project-explanations {
+	color: gray;
+	font-size: 1.5em;
+	width: 30em;
+	text-align: justify;
+}
+
 .social-img {
 	width: 25%;
 	border: 0px;
