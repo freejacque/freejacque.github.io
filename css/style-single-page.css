@@ -37,12 +37,12 @@ a.hire-me {
 	padding:20px 60px;
 	background: #307DE3;
 	color:#fff;
-	text-transform:uppercase;
 	font-size:26px;
 	margin:20px 0;
 	-webkit-border-radius: 40px;
 	-moz-border-radius: 40px;
 	border-radius: 40px;
+	text-decoration: none;
 }
 a.hire-me:hover {
 	text-decoration:none;
