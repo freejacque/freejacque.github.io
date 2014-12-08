@@ -75,6 +75,7 @@ ul.social-icons li a:hover {
 #skills .span3 {
 	width: 178px;
 	overflow: hidden;
+	margin: 34px 5px 0px 5px;
 }
 #skills .span5 {
 	text-align: left;
